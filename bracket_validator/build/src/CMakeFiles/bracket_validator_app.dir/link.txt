@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bracket_validator_app.dir/main.cpp.o -o bracket_validator_app  libbracket_validator_lib.a 

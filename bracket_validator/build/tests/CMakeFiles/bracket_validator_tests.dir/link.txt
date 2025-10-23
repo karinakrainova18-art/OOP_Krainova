@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bracket_validator_tests.dir/test_bracket_validator.cpp.o -o bracket_validator_tests  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a ../src/libbracket_validator_lib.a /usr/lib/x86_64-linux-gnu/libgtest.a 

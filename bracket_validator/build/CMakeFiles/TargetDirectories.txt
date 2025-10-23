@@ -1,0 +1,12 @@
+/home/karin/bracket_validator/build/CMakeFiles/test.dir
+/home/karin/bracket_validator/build/CMakeFiles/edit_cache.dir
+/home/karin/bracket_validator/build/CMakeFiles/rebuild_cache.dir
+/home/karin/bracket_validator/build/src/CMakeFiles/bracket_validator_lib.dir
+/home/karin/bracket_validator/build/src/CMakeFiles/bracket_validator_app.dir
+/home/karin/bracket_validator/build/src/CMakeFiles/test.dir
+/home/karin/bracket_validator/build/src/CMakeFiles/edit_cache.dir
+/home/karin/bracket_validator/build/src/CMakeFiles/rebuild_cache.dir
+/home/karin/bracket_validator/build/tests/CMakeFiles/bracket_validator_tests.dir
+/home/karin/bracket_validator/build/tests/CMakeFiles/test.dir
+/home/karin/bracket_validator/build/tests/CMakeFiles/edit_cache.dir
+/home/karin/bracket_validator/build/tests/CMakeFiles/rebuild_cache.dir
