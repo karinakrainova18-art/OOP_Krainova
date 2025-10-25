@@ -1,0 +1,649 @@
+Start testing: Oct 25 22:43 MSK
+----------------------------------------------------------
+1/23 Testing: PointTest.Equality
+1/23 Test: PointTest.Equality
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=PointTest.Equality" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"PointTest.Equality" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PointTest.Equality
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PointTest
+[ RUN      ] PointTest.Equality
+[       OK ] PointTest.Equality (0 ms)
+[----------] 1 test from PointTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PointTest.Equality" end time: Oct 25 22:43 MSK
+"PointTest.Equality" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/23 Testing: RectangleTest.Construction
+2/23 Test: RectangleTest.Construction
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=RectangleTest.Construction" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"RectangleTest.Construction" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RectangleTest.Construction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.Construction
+[       OK ] RectangleTest.Construction (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.Construction" end time: Oct 25 22:43 MSK
+"RectangleTest.Construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/23 Testing: RectangleTest.CopyConstructor
+3/23 Test: RectangleTest.CopyConstructor
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=RectangleTest.CopyConstructor" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"RectangleTest.CopyConstructor" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RectangleTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.CopyConstructor
+[       OK ] RectangleTest.CopyConstructor (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.CopyConstructor" end time: Oct 25 22:43 MSK
+"RectangleTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/23 Testing: RectangleTest.MoveConstructor
+4/23 Test: RectangleTest.MoveConstructor
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=RectangleTest.MoveConstructor" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"RectangleTest.MoveConstructor" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RectangleTest.MoveConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.MoveConstructor
+[       OK ] RectangleTest.MoveConstructor (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.MoveConstructor" end time: Oct 25 22:43 MSK
+"RectangleTest.MoveConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/23 Testing: RectangleTest.StreamOperators
+5/23 Test: RectangleTest.StreamOperators
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=RectangleTest.StreamOperators" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"RectangleTest.StreamOperators" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RectangleTest.StreamOperators
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.StreamOperators
+[       OK ] RectangleTest.StreamOperators (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.StreamOperators" end time: Oct 25 22:43 MSK
+"RectangleTest.StreamOperators" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/23 Testing: TrapezeTest.Construction
+6/23 Test: TrapezeTest.Construction
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=TrapezeTest.Construction" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"TrapezeTest.Construction" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = TrapezeTest.Construction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezeTest
+[ RUN      ] TrapezeTest.Construction
+[       OK ] TrapezeTest.Construction (0 ms)
+[----------] 1 test from TrapezeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezeTest.Construction" end time: Oct 25 22:43 MSK
+"TrapezeTest.Construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/23 Testing: TrapezeTest.CopyConstructor
+7/23 Test: TrapezeTest.CopyConstructor
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=TrapezeTest.CopyConstructor" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"TrapezeTest.CopyConstructor" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = TrapezeTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezeTest
+[ RUN      ] TrapezeTest.CopyConstructor
+[       OK ] TrapezeTest.CopyConstructor (0 ms)
+[----------] 1 test from TrapezeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezeTest.CopyConstructor" end time: Oct 25 22:43 MSK
+"TrapezeTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/23 Testing: TrapezeTest.StreamOperators
+8/23 Test: TrapezeTest.StreamOperators
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=TrapezeTest.StreamOperators" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"TrapezeTest.StreamOperators" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = TrapezeTest.StreamOperators
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TrapezeTest
+[ RUN      ] TrapezeTest.StreamOperators
+[       OK ] TrapezeTest.StreamOperators (0 ms)
+[----------] 1 test from TrapezeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TrapezeTest.StreamOperators" end time: Oct 25 22:43 MSK
+"TrapezeTest.StreamOperators" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/23 Testing: RhombusTest.Construction
+9/23 Test: RhombusTest.Construction
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=RhombusTest.Construction" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"RhombusTest.Construction" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RhombusTest.Construction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.Construction
+[       OK ] RhombusTest.Construction (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.Construction" end time: Oct 25 22:43 MSK
+"RhombusTest.Construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/23 Testing: RhombusTest.CopyConstructor
+10/23 Test: RhombusTest.CopyConstructor
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=RhombusTest.CopyConstructor" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"RhombusTest.CopyConstructor" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RhombusTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.CopyConstructor
+[       OK ] RhombusTest.CopyConstructor (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.CopyConstructor" end time: Oct 25 22:43 MSK
+"RhombusTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/23 Testing: RhombusTest.StreamOperators
+11/23 Test: RhombusTest.StreamOperators
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=RhombusTest.StreamOperators" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"RhombusTest.StreamOperators" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = RhombusTest.StreamOperators
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RhombusTest
+[ RUN      ] RhombusTest.StreamOperators
+[       OK ] RhombusTest.StreamOperators (0 ms)
+[----------] 1 test from RhombusTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RhombusTest.StreamOperators" end time: Oct 25 22:43 MSK
+"RhombusTest.StreamOperators" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/23 Testing: FigureArrayTest.AddFigures
+12/23 Test: FigureArrayTest.AddFigures
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=FigureArrayTest.AddFigures" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"FigureArrayTest.AddFigures" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureArrayTest.AddFigures
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureArrayTest
+[ RUN      ] FigureArrayTest.AddFigures
+[       OK ] FigureArrayTest.AddFigures (0 ms)
+[----------] 1 test from FigureArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureArrayTest.AddFigures" end time: Oct 25 22:43 MSK
+"FigureArrayTest.AddFigures" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/23 Testing: FigureArrayTest.TotalArea
+13/23 Test: FigureArrayTest.TotalArea
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=FigureArrayTest.TotalArea" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"FigureArrayTest.TotalArea" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureArrayTest.TotalArea
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureArrayTest
+[ RUN      ] FigureArrayTest.TotalArea
+[       OK ] FigureArrayTest.TotalArea (0 ms)
+[----------] 1 test from FigureArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureArrayTest.TotalArea" end time: Oct 25 22:43 MSK
+"FigureArrayTest.TotalArea" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/23 Testing: FigureArrayTest.CopyConstructor
+14/23 Test: FigureArrayTest.CopyConstructor
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=FigureArrayTest.CopyConstructor" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"FigureArrayTest.CopyConstructor" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureArrayTest.CopyConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureArrayTest
+[ RUN      ] FigureArrayTest.CopyConstructor
+[       OK ] FigureArrayTest.CopyConstructor (0 ms)
+[----------] 1 test from FigureArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureArrayTest.CopyConstructor" end time: Oct 25 22:43 MSK
+"FigureArrayTest.CopyConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/23 Testing: FigureArrayTest.RemoveFigure
+15/23 Test: FigureArrayTest.RemoveFigure
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=FigureArrayTest.RemoveFigure" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"FigureArrayTest.RemoveFigure" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = FigureArrayTest.RemoveFigure
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FigureArrayTest
+[ RUN      ] FigureArrayTest.RemoveFigure
+[       OK ] FigureArrayTest.RemoveFigure (0 ms)
+[----------] 1 test from FigureArrayTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FigureArrayTest.RemoveFigure" end time: Oct 25 22:43 MSK
+"FigureArrayTest.RemoveFigure" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/23 Testing: PolymorphismTest.VirtualFunctions
+16/23 Test: PolymorphismTest.VirtualFunctions
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=PolymorphismTest.VirtualFunctions" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"PolymorphismTest.VirtualFunctions" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PolymorphismTest.VirtualFunctions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolymorphismTest
+[ RUN      ] PolymorphismTest.VirtualFunctions
+[       OK ] PolymorphismTest.VirtualFunctions (0 ms)
+[----------] 1 test from PolymorphismTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PolymorphismTest.VirtualFunctions" end time: Oct 25 22:43 MSK
+"PolymorphismTest.VirtualFunctions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/23 Testing: PolymorphismTest.ConversionOperator
+17/23 Test: PolymorphismTest.ConversionOperator
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=PolymorphismTest.ConversionOperator" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"PolymorphismTest.ConversionOperator" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PolymorphismTest.ConversionOperator
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolymorphismTest
+[ RUN      ] PolymorphismTest.ConversionOperator
+[       OK ] PolymorphismTest.ConversionOperator (0 ms)
+[----------] 1 test from PolymorphismTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PolymorphismTest.ConversionOperator" end time: Oct 25 22:43 MSK
+"PolymorphismTest.ConversionOperator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/23 Testing: PolymorphismTest.Cloning
+18/23 Test: PolymorphismTest.Cloning
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=PolymorphismTest.Cloning" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"PolymorphismTest.Cloning" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = PolymorphismTest.Cloning
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PolymorphismTest
+[ RUN      ] PolymorphismTest.Cloning
+[       OK ] PolymorphismTest.Cloning (0 ms)
+[----------] 1 test from PolymorphismTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"PolymorphismTest.Cloning" end time: Oct 25 22:43 MSK
+"PolymorphismTest.Cloning" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/23 Testing: EdgeCasesTest.ZeroDimensions
+19/23 Test: EdgeCasesTest.ZeroDimensions
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=EdgeCasesTest.ZeroDimensions" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"EdgeCasesTest.ZeroDimensions" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = EdgeCasesTest.ZeroDimensions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCasesTest
+[ RUN      ] EdgeCasesTest.ZeroDimensions
+[       OK ] EdgeCasesTest.ZeroDimensions (0 ms)
+[----------] 1 test from EdgeCasesTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCasesTest.ZeroDimensions" end time: Oct 25 22:43 MSK
+"EdgeCasesTest.ZeroDimensions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/23 Testing: EdgeCasesTest.NegativeDimensions
+20/23 Test: EdgeCasesTest.NegativeDimensions
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=EdgeCasesTest.NegativeDimensions" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"EdgeCasesTest.NegativeDimensions" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = EdgeCasesTest.NegativeDimensions
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCasesTest
+[ RUN      ] EdgeCasesTest.NegativeDimensions
+[       OK ] EdgeCasesTest.NegativeDimensions (0 ms)
+[----------] 1 test from EdgeCasesTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCasesTest.NegativeDimensions" end time: Oct 25 22:43 MSK
+"EdgeCasesTest.NegativeDimensions" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/23 Testing: EdgeCasesTest.EmptyArray
+21/23 Test: EdgeCasesTest.EmptyArray
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_filter=EdgeCasesTest.EmptyArray" "--gtest_also_run_disabled_tests" "--gtest_output=xml:test_results.xml"
+Directory: /home/karin/figures_project.cpp/build
+"EdgeCasesTest.EmptyArray" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = EdgeCasesTest.EmptyArray
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EdgeCasesTest
+[ RUN      ] EdgeCasesTest.EmptyArray
+[       OK ] EdgeCasesTest.EmptyArray (0 ms)
+[----------] 1 test from EdgeCasesTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EdgeCasesTest.EmptyArray" end time: Oct 25 22:43 MSK
+"EdgeCasesTest.EmptyArray" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/23 Testing: FiguresTest_Detailed
+22/23 Test: FiguresTest_Detailed
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_color=yes"
+Directory: /home/karin/figures_project.cpp/build
+"FiguresTest_Detailed" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+[0;32m[==========] [mRunning 21 tests from 7 test suites.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from PointTest
+[0;32m[ RUN      ] [mPointTest.Equality
+[0;32m[       OK ] [mPointTest.Equality (0 ms)
+[0;32m[----------] [m1 test from PointTest (0 ms total)
+
+[0;32m[----------] [m4 tests from RectangleTest
+[0;32m[ RUN      ] [mRectangleTest.Construction
+[0;32m[       OK ] [mRectangleTest.Construction (0 ms)
+[0;32m[ RUN      ] [mRectangleTest.CopyConstructor
+[0;32m[       OK ] [mRectangleTest.CopyConstructor (0 ms)
+[0;32m[ RUN      ] [mRectangleTest.MoveConstructor
+[0;32m[       OK ] [mRectangleTest.MoveConstructor (0 ms)
+[0;32m[ RUN      ] [mRectangleTest.StreamOperators
+[0;32m[       OK ] [mRectangleTest.StreamOperators (0 ms)
+[0;32m[----------] [m4 tests from RectangleTest (0 ms total)
+
+[0;32m[----------] [m3 tests from TrapezeTest
+[0;32m[ RUN      ] [mTrapezeTest.Construction
+[0;32m[       OK ] [mTrapezeTest.Construction (0 ms)
+[0;32m[ RUN      ] [mTrapezeTest.CopyConstructor
+[0;32m[       OK ] [mTrapezeTest.CopyConstructor (0 ms)
+[0;32m[ RUN      ] [mTrapezeTest.StreamOperators
+[0;32m[       OK ] [mTrapezeTest.StreamOperators (0 ms)
+[0;32m[----------] [m3 tests from TrapezeTest (0 ms total)
+
+[0;32m[----------] [m3 tests from RhombusTest
+[0;32m[ RUN      ] [mRhombusTest.Construction
+[0;32m[       OK ] [mRhombusTest.Construction (0 ms)
+[0;32m[ RUN      ] [mRhombusTest.CopyConstructor
+[0;32m[       OK ] [mRhombusTest.CopyConstructor (0 ms)
+[0;32m[ RUN      ] [mRhombusTest.StreamOperators
+[0;32m[       OK ] [mRhombusTest.StreamOperators (0 ms)
+[0;32m[----------] [m3 tests from RhombusTest (0 ms total)
+
+[0;32m[----------] [m4 tests from FigureArrayTest
+[0;32m[ RUN      ] [mFigureArrayTest.AddFigures
+[0;32m[       OK ] [mFigureArrayTest.AddFigures (0 ms)
+[0;32m[ RUN      ] [mFigureArrayTest.TotalArea
+[0;32m[       OK ] [mFigureArrayTest.TotalArea (0 ms)
+[0;32m[ RUN      ] [mFigureArrayTest.CopyConstructor
+[0;32m[       OK ] [mFigureArrayTest.CopyConstructor (0 ms)
+[0;32m[ RUN      ] [mFigureArrayTest.RemoveFigure
+[0;32m[       OK ] [mFigureArrayTest.RemoveFigure (0 ms)
+[0;32m[----------] [m4 tests from FigureArrayTest (0 ms total)
+
+[0;32m[----------] [m3 tests from PolymorphismTest
+[0;32m[ RUN      ] [mPolymorphismTest.VirtualFunctions
+[0;32m[       OK ] [mPolymorphismTest.VirtualFunctions (0 ms)
+[0;32m[ RUN      ] [mPolymorphismTest.ConversionOperator
+[0;32m[       OK ] [mPolymorphismTest.ConversionOperator (0 ms)
+[0;32m[ RUN      ] [mPolymorphismTest.Cloning
+[0;32m[       OK ] [mPolymorphismTest.Cloning (0 ms)
+[0;32m[----------] [m3 tests from PolymorphismTest (0 ms total)
+
+[0;32m[----------] [m3 tests from EdgeCasesTest
+[0;32m[ RUN      ] [mEdgeCasesTest.ZeroDimensions
+[0;32m[       OK ] [mEdgeCasesTest.ZeroDimensions (0 ms)
+[0;32m[ RUN      ] [mEdgeCasesTest.NegativeDimensions
+[0;32m[       OK ] [mEdgeCasesTest.NegativeDimensions (0 ms)
+[0;32m[ RUN      ] [mEdgeCasesTest.EmptyArray
+[0;32m[       OK ] [mEdgeCasesTest.EmptyArray (0 ms)
+[0;32m[----------] [m3 tests from EdgeCasesTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m21 tests from 7 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m21 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiguresTest_Detailed" end time: Oct 25 22:43 MSK
+"FiguresTest_Detailed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/23 Testing: FiguresTest_Brief
+23/23 Test: FiguresTest_Brief
+Command: "/home/karin/figures_project.cpp/build/test_figures" "--gtest_brief=1"
+Directory: /home/karin/figures_project.cpp/build
+"FiguresTest_Brief" start time: Oct 25 22:43 MSK
+Output:
+----------------------------------------------------------
+[==========] 21 tests from 7 test suites ran. (0 ms total)
+[  PASSED  ] 21 tests.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FiguresTest_Brief" end time: Oct 25 22:43 MSK
+"FiguresTest_Brief" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 25 22:43 MSK

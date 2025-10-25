@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/figures.dir/src/main.cpp.o CMakeFiles/figures.dir/src/Rectangle.cpp.o CMakeFiles/figures.dir/src/Trapeze.cpp.o CMakeFiles/figures.dir/src/Rhombus.cpp.o -o figures 

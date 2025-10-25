@@ -1,0 +1,5 @@
+if(EXISTS "/home/karin/figures_project.cpp/build/test_figures[1]_tests.cmake")
+  include("/home/karin/figures_project.cpp/build/test_figures[1]_tests.cmake")
+else()
+  add_test(test_figures_NOT_BUILT test_figures_NOT_BUILT)
+endif()

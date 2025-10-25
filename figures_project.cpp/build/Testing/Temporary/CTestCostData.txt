@@ -1,0 +1,24 @@
+PointTest.Equality 1 0.0050581
+RectangleTest.Construction 1 0.0058404
+RectangleTest.CopyConstructor 1 0.0061096
+RectangleTest.MoveConstructor 1 0.0057677
+RectangleTest.StreamOperators 1 0.0069674
+TrapezeTest.Construction 1 0.0074066
+TrapezeTest.CopyConstructor 1 0.0070743
+TrapezeTest.StreamOperators 1 0.0053548
+RhombusTest.Construction 1 0.0057928
+RhombusTest.CopyConstructor 1 0.0054305
+RhombusTest.StreamOperators 1 0.0057757
+FigureArrayTest.AddFigures 1 0.0065713
+FigureArrayTest.TotalArea 1 0.0063194
+FigureArrayTest.CopyConstructor 1 0.0055051
+FigureArrayTest.RemoveFigure 1 0.0055464
+PolymorphismTest.VirtualFunctions 1 0.0050691
+PolymorphismTest.ConversionOperator 1 0.0055133
+PolymorphismTest.Cloning 1 0.005674
+EdgeCasesTest.ZeroDimensions 1 0.0059538
+EdgeCasesTest.NegativeDimensions 1 0.0057058
+EdgeCasesTest.EmptyArray 1 0.0058797
+FiguresTest_Detailed 1 0.0054263
+FiguresTest_Brief 1 0.005527
+---
