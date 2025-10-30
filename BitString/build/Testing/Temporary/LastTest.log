@@ -1,0 +1,211 @@
+Start testing: Oct 30 22:56 MSK
+----------------------------------------------------------
+1/8 Testing: BitStringCpp_Basic.ConstructAndToString
+1/8 Test: BitStringCpp_Basic.ConstructAndToString
+Command: "/home/karin/BitString/build/bitstring_cpp_tests" "--gtest_filter=BitStringCpp_Basic.ConstructAndToString" "--gtest_also_run_disabled_tests"
+Directory: /home/karin/BitString/build
+"BitStringCpp_Basic.ConstructAndToString" start time: Oct 30 22:56 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BitStringCpp_Basic.ConstructAndToString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BitStringCpp_Basic
+[ RUN      ] BitStringCpp_Basic.ConstructAndToString
+[       OK ] BitStringCpp_Basic.ConstructAndToString (0 ms)
+[----------] 1 test from BitStringCpp_Basic (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BitStringCpp_Basic.ConstructAndToString" end time: Oct 30 22:56 MSK
+"BitStringCpp_Basic.ConstructAndToString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: BitStringCpp_Access.AtAndBounds
+2/8 Test: BitStringCpp_Access.AtAndBounds
+Command: "/home/karin/BitString/build/bitstring_cpp_tests" "--gtest_filter=BitStringCpp_Access.AtAndBounds" "--gtest_also_run_disabled_tests"
+Directory: /home/karin/BitString/build
+"BitStringCpp_Access.AtAndBounds" start time: Oct 30 22:56 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BitStringCpp_Access.AtAndBounds
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BitStringCpp_Access
+[ RUN      ] BitStringCpp_Access.AtAndBounds
+[       OK ] BitStringCpp_Access.AtAndBounds (0 ms)
+[----------] 1 test from BitStringCpp_Access (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BitStringCpp_Access.AtAndBounds" end time: Oct 30 22:56 MSK
+"BitStringCpp_Access.AtAndBounds" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: BitStringCpp_Logic.AndOrXorNot
+3/8 Test: BitStringCpp_Logic.AndOrXorNot
+Command: "/home/karin/BitString/build/bitstring_cpp_tests" "--gtest_filter=BitStringCpp_Logic.AndOrXorNot" "--gtest_also_run_disabled_tests"
+Directory: /home/karin/BitString/build
+"BitStringCpp_Logic.AndOrXorNot" start time: Oct 30 22:56 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BitStringCpp_Logic.AndOrXorNot
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BitStringCpp_Logic
+[ RUN      ] BitStringCpp_Logic.AndOrXorNot
+[       OK ] BitStringCpp_Logic.AndOrXorNot (0 ms)
+[----------] 1 test from BitStringCpp_Logic (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BitStringCpp_Logic.AndOrXorNot" end time: Oct 30 22:56 MSK
+"BitStringCpp_Logic.AndOrXorNot" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: BitStringCpp_Logic.DifferentSizesAlignLeftPad
+4/8 Test: BitStringCpp_Logic.DifferentSizesAlignLeftPad
+Command: "/home/karin/BitString/build/bitstring_cpp_tests" "--gtest_filter=BitStringCpp_Logic.DifferentSizesAlignLeftPad" "--gtest_also_run_disabled_tests"
+Directory: /home/karin/BitString/build
+"BitStringCpp_Logic.DifferentSizesAlignLeftPad" start time: Oct 30 22:56 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BitStringCpp_Logic.DifferentSizesAlignLeftPad
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BitStringCpp_Logic
+[ RUN      ] BitStringCpp_Logic.DifferentSizesAlignLeftPad
+[       OK ] BitStringCpp_Logic.DifferentSizesAlignLeftPad (0 ms)
+[----------] 1 test from BitStringCpp_Logic (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BitStringCpp_Logic.DifferentSizesAlignLeftPad" end time: Oct 30 22:56 MSK
+"BitStringCpp_Logic.DifferentSizesAlignLeftPad" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: BitStringCpp_Arith.AddSubtract
+5/8 Test: BitStringCpp_Arith.AddSubtract
+Command: "/home/karin/BitString/build/bitstring_cpp_tests" "--gtest_filter=BitStringCpp_Arith.AddSubtract" "--gtest_also_run_disabled_tests"
+Directory: /home/karin/BitString/build
+"BitStringCpp_Arith.AddSubtract" start time: Oct 30 22:56 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BitStringCpp_Arith.AddSubtract
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BitStringCpp_Arith
+[ RUN      ] BitStringCpp_Arith.AddSubtract
+[       OK ] BitStringCpp_Arith.AddSubtract (0 ms)
+[----------] 1 test from BitStringCpp_Arith (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BitStringCpp_Arith.AddSubtract" end time: Oct 30 22:56 MSK
+"BitStringCpp_Arith.AddSubtract" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: BitStringCpp_Compare.IgnoreLeadingZeros
+6/8 Test: BitStringCpp_Compare.IgnoreLeadingZeros
+Command: "/home/karin/BitString/build/bitstring_cpp_tests" "--gtest_filter=BitStringCpp_Compare.IgnoreLeadingZeros" "--gtest_also_run_disabled_tests"
+Directory: /home/karin/BitString/build
+"BitStringCpp_Compare.IgnoreLeadingZeros" start time: Oct 30 22:56 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BitStringCpp_Compare.IgnoreLeadingZeros
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BitStringCpp_Compare
+[ RUN      ] BitStringCpp_Compare.IgnoreLeadingZeros
+[       OK ] BitStringCpp_Compare.IgnoreLeadingZeros (0 ms)
+[----------] 1 test from BitStringCpp_Compare (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BitStringCpp_Compare.IgnoreLeadingZeros" end time: Oct 30 22:56 MSK
+"BitStringCpp_Compare.IgnoreLeadingZeros" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: BitStringCpp_Exceptions.InvalidString
+7/8 Test: BitStringCpp_Exceptions.InvalidString
+Command: "/home/karin/BitString/build/bitstring_cpp_tests" "--gtest_filter=BitStringCpp_Exceptions.InvalidString" "--gtest_also_run_disabled_tests"
+Directory: /home/karin/BitString/build
+"BitStringCpp_Exceptions.InvalidString" start time: Oct 30 22:56 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BitStringCpp_Exceptions.InvalidString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BitStringCpp_Exceptions
+[ RUN      ] BitStringCpp_Exceptions.InvalidString
+[       OK ] BitStringCpp_Exceptions.InvalidString (0 ms)
+[----------] 1 test from BitStringCpp_Exceptions (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BitStringCpp_Exceptions.InvalidString" end time: Oct 30 22:56 MSK
+"BitStringCpp_Exceptions.InvalidString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: BitStringCpp_Immutability.MethodsReturnNewObjects
+8/8 Test: BitStringCpp_Immutability.MethodsReturnNewObjects
+Command: "/home/karin/BitString/build/bitstring_cpp_tests" "--gtest_filter=BitStringCpp_Immutability.MethodsReturnNewObjects" "--gtest_also_run_disabled_tests"
+Directory: /home/karin/BitString/build
+"BitStringCpp_Immutability.MethodsReturnNewObjects" start time: Oct 30 22:56 MSK
+Output:
+----------------------------------------------------------
+Note: Google Test filter = BitStringCpp_Immutability.MethodsReturnNewObjects
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BitStringCpp_Immutability
+[ RUN      ] BitStringCpp_Immutability.MethodsReturnNewObjects
+[       OK ] BitStringCpp_Immutability.MethodsReturnNewObjects (0 ms)
+[----------] 1 test from BitStringCpp_Immutability (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BitStringCpp_Immutability.MethodsReturnNewObjects" end time: Oct 30 22:56 MSK
+"BitStringCpp_Immutability.MethodsReturnNewObjects" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 30 22:56 MSK

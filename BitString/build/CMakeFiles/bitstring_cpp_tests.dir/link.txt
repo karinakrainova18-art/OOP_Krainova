@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bitstring_cpp_tests.dir/tests/bitstring_tests.cpp.o -o bitstring_cpp_tests  libbitstring_cpp.a /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 

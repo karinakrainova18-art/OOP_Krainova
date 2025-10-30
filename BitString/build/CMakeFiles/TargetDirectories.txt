@@ -1,0 +1,5 @@
+/home/karin/BitString/build/CMakeFiles/bitstring_cpp.dir
+/home/karin/BitString/build/CMakeFiles/bitstring_cpp_tests.dir
+/home/karin/BitString/build/CMakeFiles/test.dir
+/home/karin/BitString/build/CMakeFiles/edit_cache.dir
+/home/karin/BitString/build/CMakeFiles/rebuild_cache.dir

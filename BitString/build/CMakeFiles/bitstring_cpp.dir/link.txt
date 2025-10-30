@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbitstring_cpp.a CMakeFiles/bitstring_cpp.dir/src/BitString.cpp.o
+/usr/bin/ranlib libbitstring_cpp.a

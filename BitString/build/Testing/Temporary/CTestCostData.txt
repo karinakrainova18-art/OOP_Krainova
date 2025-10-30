@@ -1,0 +1,9 @@
+BitStringCpp_Basic.ConstructAndToString 1 0.0043706
+BitStringCpp_Access.AtAndBounds 1 0.0054462
+BitStringCpp_Logic.AndOrXorNot 1 0.003589
+BitStringCpp_Logic.DifferentSizesAlignLeftPad 1 0.0043153
+BitStringCpp_Arith.AddSubtract 1 0.0043484
+BitStringCpp_Compare.IgnoreLeadingZeros 1 0.0042476
+BitStringCpp_Exceptions.InvalidString 1 0.0109522
+BitStringCpp_Immutability.MethodsReturnNewObjects 1 0.0137357
+---
