@@ -1,0 +1,4 @@
+/home/karin/Lab5_OOP/build/CMakeFiles/main.dir
+/home/karin/Lab5_OOP/build/CMakeFiles/tests.dir
+/home/karin/Lab5_OOP/build/CMakeFiles/edit_cache.dir
+/home/karin/Lab5_OOP/build/CMakeFiles/rebuild_cache.dir
