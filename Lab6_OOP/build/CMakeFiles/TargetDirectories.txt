@@ -1,0 +1,4 @@
+/home/karin/Lab6_OOP/build/CMakeFiles/lab_06_run.dir
+/home/karin/Lab6_OOP/build/CMakeFiles/lab_06_tests.dir
+/home/karin/Lab6_OOP/build/CMakeFiles/edit_cache.dir
+/home/karin/Lab6_OOP/build/CMakeFiles/rebuild_cache.dir

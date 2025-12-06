@@ -1,0 +1,28 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/karin/Lab6_OOP/src/battle_visitor.cpp" "CMakeFiles/lab_06_tests.dir/src/battle_visitor.cpp.o" "gcc" "CMakeFiles/lab_06_tests.dir/src/battle_visitor.cpp.o.d"
+  "/home/karin/Lab6_OOP/src/dungeon_editor.cpp" "CMakeFiles/lab_06_tests.dir/src/dungeon_editor.cpp.o" "gcc" "CMakeFiles/lab_06_tests.dir/src/dungeon_editor.cpp.o.d"
+  "/home/karin/Lab6_OOP/src/npc.cpp" "CMakeFiles/lab_06_tests.dir/src/npc.cpp.o" "gcc" "CMakeFiles/lab_06_tests.dir/src/npc.cpp.o.d"
+  "/home/karin/Lab6_OOP/src/npc_factory.cpp" "CMakeFiles/lab_06_tests.dir/src/npc_factory.cpp.o" "gcc" "CMakeFiles/lab_06_tests.dir/src/npc_factory.cpp.o.d"
+  "/home/karin/Lab6_OOP/src/observer.cpp" "CMakeFiles/lab_06_tests.dir/src/observer.cpp.o" "gcc" "CMakeFiles/lab_06_tests.dir/src/observer.cpp.o.d"
+  "/home/karin/Lab6_OOP/tests/dungeon_tests.cpp" "CMakeFiles/lab_06_tests.dir/tests/dungeon_tests.cpp.o" "gcc" "CMakeFiles/lab_06_tests.dir/tests/dungeon_tests.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
